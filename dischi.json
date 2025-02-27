@@ -1,0 +1,58 @@
+[
+    {
+      "titolo": "Abbey Road",
+      "artista": "The Beatles",
+      "url_cover": "https://example.com/abbey_road.jpg",
+      "anno_pubblicazione": 1969,
+      "genere": "Rock"
+    },
+    {
+      "titolo": "The Dark Side of the Moon",
+      "artista": "Pink Floyd",
+      "url_cover": "https://example.com/dark_side_of_the_moon.jpg",
+      "anno_pubblicazione": 1973,
+      "genere": "Progressive Rock"
+    },
+    {
+      "titolo": "Back in Black",
+      "artista": "AC/DC",
+      "url_cover": "https://example.com/back_in_black.jpg",
+      "anno_pubblicazione": 1980,
+      "genere": "Hard Rock"
+    },
+    {
+      "titolo": "Thriller",
+      "artista": "Michael Jackson",
+      "url_cover": "https://example.com/thriller.jpg",
+      "anno_pubblicazione": 1982,
+      "genere": "Pop"
+    },
+    {
+      "titolo": "The Wall",
+      "artista": "Pink Floyd",
+      "url_cover": "https://example.com/the_wall.jpg",
+      "anno_pubblicazione": 1979,
+      "genere": "Progressive Rock"
+    },
+    {
+      "titolo": "Rumours",
+      "artista": "Fleetwood Mac",
+      "url_cover": "https://example.com/rumours.jpg",
+      "anno_pubblicazione": 1977,
+      "genere": "Rock"
+    },
+    {
+      "titolo": "Born in the U.S.A.",
+      "artista": "Bruce Springsteen",
+      "url_cover": "https://example.com/born_in_the_usa.jpg",
+      "anno_pubblicazione": 1984,
+      "genere": "Rock"
+    },
+    {
+      "titolo": "Let It Be",
+      "artista": "The Beatles",
+      "url_cover": "https://example.com/let_it_be.jpg",
+      "anno_pubblicazione": 1970,
+      "genere": "Rock"
+    }
+  ]
