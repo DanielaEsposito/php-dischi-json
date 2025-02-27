@@ -36,6 +36,33 @@ $dischi = json_decode($file,  true);
                 }
                 ?>
             </div>
+            <h3 class="my-3">Inserisci un nuovo Disco </h3>
+            <form class="row row-cols-3">
+                <div class="mb-3 col">
+                    <label for="url_cover" class="form-label">Url immagine</label>
+                    <input class="form-control" type="text" aria-label="default input example" id="url_cover" name="url_cover">
+                </div>
+                <div class="mb-3 col">
+                    <label for="titolo" class="form-label">Titolo</label>
+                    <input class="form-control" type="text" aria-label="default input example" id="titolo" name="titolo">
+                </div>
+                <div class="mb-3 col">
+                    <label for="artista" class="form-label">Artista</label>
+                    <input class="form-control" type="text" aria-label="default input example" id="artista" name="artista">
+                </div>
+                <div class="mb-3 col">
+                    <label for="anno_pubblicazione" class="form-label">Anno di pubblicazione</label>
+                    <input class="form-control" type="text" aria-label="default input example" id="anno_pubblicazione" name="anno_pubblicazione">
+                </div>
+                <div class="mb-3 col">
+                    <label for="genere" class="form-label">Genere</label>
+                    <input class="form-control" type="text" aria-label="default input example" id="genere" name="genere">
+                </div>
+                <div class="mb-3 col-12">
+
+                    <button type="submit" class="btn btn-primary">Aggiungi </button>
+                </div>
+            </form>
         </div>
     </main>
 </body>
