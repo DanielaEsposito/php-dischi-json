@@ -1,58 +1,65 @@
 [
     {
-      "titolo": "Abbey Road",
-      "artista": "The Beatles",
-      "url_cover": "https://example.com/abbey_road.jpg",
-      "anno_pubblicazione": 1969,
-      "genere": "Rock"
+        "titolo": "Abbey Road",
+        "artista": "The Beatles",
+        "url_cover": "https:\/\/cdn-images.dzcdn.net\/images\/artist\/fe9eb4463ea87452e84ed97e0c86b878\/1900x1900-000000-80-0-0.jpg",
+        "anno_pubblicazione": 1969,
+        "genere": "Rock"
     },
     {
-      "titolo": "The Dark Side of the Moon",
-      "artista": "Pink Floyd",
-      "url_cover": "https://example.com/dark_side_of_the_moon.jpg",
-      "anno_pubblicazione": 1973,
-      "genere": "Progressive Rock"
+        "titolo": "The Dark Side of the Moon",
+        "artista": "Pink Floyd",
+        "url_cover": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ea7caaff71dea1051d49b2fe",
+        "anno_pubblicazione": 1973,
+        "genere": "Progressive Rock"
     },
     {
-      "titolo": "Back in Black",
-      "artista": "AC/DC",
-      "url_cover": "https://example.com/back_in_black.jpg",
-      "anno_pubblicazione": 1980,
-      "genere": "Hard Rock"
+        "titolo": "Back in Black",
+        "artista": "AC\/DC",
+        "url_cover": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b56115c0e231fbf69d3205c6",
+        "anno_pubblicazione": 1980,
+        "genere": "Hard Rock"
     },
     {
-      "titolo": "Thriller",
-      "artista": "Michael Jackson",
-      "url_cover": "https://example.com/thriller.jpg",
-      "anno_pubblicazione": 1982,
-      "genere": "Pop"
+        "titolo": "Thriller",
+        "artista": "Michael Jackson",
+        "url_cover": "https:\/\/i.scdn.co\/image\/ab67616d0000b273db4232d94539e4165951e749",
+        "anno_pubblicazione": 1982,
+        "genere": "Pop"
     },
     {
-      "titolo": "The Wall",
-      "artista": "Pink Floyd",
-      "url_cover": "https://example.com/the_wall.jpg",
-      "anno_pubblicazione": 1979,
-      "genere": "Progressive Rock"
+        "titolo": "The Wall",
+        "artista": "Pink Floyd",
+        "url_cover": "https:\/\/m.media-amazon.com\/images\/I\/715jbEtLNcL._UF1000,1000_QL80_.jpg",
+        "anno_pubblicazione": 1979,
+        "genere": "Progressive Rock"
     },
     {
-      "titolo": "Rumours",
-      "artista": "Fleetwood Mac",
-      "url_cover": "https://example.com/rumours.jpg",
-      "anno_pubblicazione": 1977,
-      "genere": "Rock"
+        "titolo": "Rumours",
+        "artista": "Fleetwood Mac",
+        "url_cover": "https:\/\/i.ebayimg.com\/images\/g\/pbwAAOSwZ4BmH94G\/s-l1200.jpg",
+        "anno_pubblicazione": 1977,
+        "genere": "Rock"
     },
     {
-      "titolo": "Born in the U.S.A.",
-      "artista": "Bruce Springsteen",
-      "url_cover": "https://example.com/born_in_the_usa.jpg",
-      "anno_pubblicazione": 1984,
-      "genere": "Rock"
+        "titolo": "Born in the U.S.A.",
+        "artista": "Bruce Springsteen",
+        "url_cover": "https:\/\/m.media-amazon.com\/images\/I\/81VqdgV3cmL._UF1000,1000_QL80_.jpg",
+        "anno_pubblicazione": 1984,
+        "genere": "Rock"
     },
     {
-      "titolo": "Let It Be",
-      "artista": "The Beatles",
-      "url_cover": "https://example.com/let_it_be.jpg",
-      "anno_pubblicazione": 1970,
-      "genere": "Rock"
+        "titolo": "Let It Be",
+        "artista": "The Beatles",
+        "url_cover": "https:\/\/www.redmoonrecords.com\/it\/file\/get-file?id=35891&width=600&height=600",
+        "anno_pubblicazione": 1970,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "wefgvre",
+        "artista": "wfgvw",
+        "url_cover": "fgheghb",
+        "anno_pubblicazione": "wrfv",
+        "genere": "wveee"
     }
-  ]
+]
